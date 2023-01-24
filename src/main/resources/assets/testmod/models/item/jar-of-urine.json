@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures" : {
+    "Layer0": "testmod:item/jar-of-urine"
+  }
+}
